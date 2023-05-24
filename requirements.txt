@@ -1,3 +1,4 @@
+prefect
 tqdm
 requests
 joblib
@@ -8,3 +9,4 @@ evidently
 pandas
 numpy
 scikit-learn
+jupyter
